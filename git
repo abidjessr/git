@@ -1,0 +1,5 @@
+ # Setting Up User Name and Email Address
+$ git config --global user.name "Abigail"
+$ git config --global user.email abigaildjesus88@gmail.com
+# Changing default editor to 'emacs'. It can be changed accordingly.
+$ git config --global core.editor emacs
